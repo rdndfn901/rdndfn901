@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jack Force
 
-### Aspiring Computer Scientist | Python & TypeScript Developer | Project-Driven Learner
+### Aspiring Computer Scientist | Python | Project-Driven Learner
 
 I am a highly motivated student developer with a strong interest in **computer science, software engineering, and applied problem-solving**. My work focuses on building practical, real-world projects that combine programming fundamentals with modern development tools.
 
