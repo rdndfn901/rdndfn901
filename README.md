@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jack Force
+# Hi 👋,
 
 ### Aspiring Computer Scientist | Python | Project-Driven Learner
 
@@ -45,13 +45,6 @@ Each repository includes detailed documentation explaining the technical decisio
 ## 🌍 Academic & Portfolio Note
 
 My GitHub profile is maintained as a **learning-focused portfolio**, documenting my progression from foundational programming projects to more advanced, real-world systems. Each project reflects deliberate practice, independent learning, and iterative improvement.
-
----
-
-## 📫 Contact
-
-* 📧 Email: **[radwandoufan@gmail.com](mailto:radwandoufan@gmail.com)**
-* 💼 LinkedIn: **radwan-doufan-49b119331**
 
 ---
 
